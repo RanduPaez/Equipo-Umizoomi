@@ -179,7 +179,6 @@ Este proyecto está bajo licencia MIT. Ver archivo LICENSE para más detalles.
 ✉️ Contacto
 Para preguntas o colaboraciones:
 
-Email: proyecto-red@example.com
+Email: kevin.paez2510@alumnos.udg.mx
 
-Repositorio: github.com/usuario/proyecto-red
 
